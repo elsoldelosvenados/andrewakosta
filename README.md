@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-Welcome to my GitHub account if you are watching this it is because you want to know who the hell Andres is so I'll tell you, Andres is a Junior web developer who loves programming and learns every day in a field that is transformed day by day, Andres programs with the MERN stack but maybe you already knew this so take a look at these repositories...:wink:
+Welcome to my GitHub account if you are watching this it is because you want to know who the hell Andres is so I'll tell you, Andres is a Junior web developer who loves programming and learns every day in a industry that is transformed day by day, Andres programs with the MERN stack but maybe you already knew this so take a look at these repositories...:wink:
 
 <!--
 **andrewakosta/andrewakosta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
